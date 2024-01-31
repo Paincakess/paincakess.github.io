@@ -3,7 +3,7 @@ title: 'FL(AWS)2: The Attacker’s Path'
 author: paincakes
 date: 2023-01-14 20:55:00 +0800
 categories: [Cloud Pentesting, AWS]
-tags: [aws-pentesting, ctf]
+tags: [aws-pentesting, CTF]
 ---
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5ilH_X6zvgVygO4eL07h5A.png" alt="FLAWS Challenge Series Introduction">
