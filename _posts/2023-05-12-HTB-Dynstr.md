@@ -10,7 +10,7 @@ tags: [linux, htb-walkthrough]
 ![Box-Info](https://paincakes.sirv.com/Images/HTB/Dynstr/Info.png)
 
 # Summary
-The “Dynstr” machine from hack the box was medium and fun box which contained a very good concept of dynamic DNS provider. We will start with command injection vulnerability in the DNS/IP update API which is used for spawning a reverse shell. Then we will find the SSH private key of a user in a file which can be used only after some modification in the DNS resolution to get access SSH service. For privilege escalation we exploited a vulnerable sudo permission and wildcard injection in the cp command to spawn the root shell.
+The **Dynstr** machine from hack the box was medium and fun box which contained a very good concept of dynamic DNS provider. We will start with command injection vulnerability in the DNS/IP update API which is used for spawning a reverse shell. Then we will find the SSH private key of a user in a file which can be used only after some modification in the DNS resolution to get access SSH service. For privilege escalation we exploited a vulnerable sudo permission and wildcard injection in the cp command to spawn the root shell.
 
 
 ## NMAP Scanning

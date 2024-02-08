@@ -10,7 +10,7 @@ tags: [AD, htb-walkthrough]
 ![Box-Info](https://paincakes.sirv.com/Images/HTB/Return/INFO.png)
 
 # Summary
-This Machine “Return” specially focuses on exploiting a printer’s configuration which was exposed on the website the server was hosting by which we could exploit it and get the credentials to access the machine. Then we see that were the are part of “Server Operators groups” which we could use for gaining access to the reverse shell with Administrator Privilege. It was an easy and straight forward box.
+This Machine **Return** specially focuses on exploiting a printer’s configuration which was exposed on the website the server was hosting by which we could exploit it and get the credentials to access the machine. Then we see that were the are part of “Server Operators groups” which we could use for gaining access to the reverse shell with Administrator Privilege. It was an easy and straight forward box.
 
 
 ## NMAP Scanning

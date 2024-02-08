@@ -10,7 +10,7 @@ tags: [AD, htb-walkthrough]
 ![Box-Info](https://paincakes.sirv.com/Images/HTB/Forest/Info.png)
 
 # Summary
-The “Forest” machine of hack the box was an easy leveled box which provided very good concept about user enumeration and Kerberoasting the users to get the Winrm shell of a user. That user can also be used to extract the data for bloodhound which reveals a misconfigured permission that can be used to give a user DCSync capabilities which can be used to dump hashes for the administrator user and get a shell as the admin.
+The **Forest** machine of hack the box was an easy leveled box which provided very good concept about user enumeration and Kerberoasting the users to get the Winrm shell of a user. That user can also be used to extract the data for bloodhound which reveals a misconfigured permission that can be used to give a user DCSync capabilities which can be used to dump hashes for the administrator user and get a shell as the admin.
 
 
 ## NMAP Scanning
