@@ -3,7 +3,7 @@ title: 'HTB - Hospital'
 author: paincakes
 date: 2024-04-11 20:55:00 +0800
 categories: [HTB, Medium]
-tags: [Windows, htb-walkthrough]
+tags: [windows, htb-walkthrough]
 ---
 
 
