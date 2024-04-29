@@ -15,11 +15,13 @@ As a passionate penetration tester, I specialize in evaluating the security of w
 
 ## Certifications
 
+- Certified Professional Penetration Tester (eCPPTv2) - INE Security
+- Cloud Foundations - AWS Academy 
+- Cloud Security Foundations - AWS Academy 
 - Network Security Expert : NSE 1 - Fortinet
 - Network Security Expert : NSE 2 - Fortinet
 - Network Security Expert : NSE 3 - Fortinet
-- Cloud Foundations - AWS Academy 
-- Cloud Security Foundations - AWS Academy 
+
 
 ## Working Experience
 
