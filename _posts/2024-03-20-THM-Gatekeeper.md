@@ -2,8 +2,8 @@
 title: 'THM - GateKeeper'
 author: paincakes
 date: 2024-03-20 20:55:00 +0800
-categories: [THM, Medium]
-tags: [thm-walkthrough, binary-exploitation]
+categories: [THM, Binary Exploitation]
+tags: [thm-walkthrough, buffer-overflow]
 ---
 
 
