@@ -6,7 +6,9 @@ order: 4
 
 ## Summary
 
-As a passionate penetration tester, I specialize in evaluating the security of web applications, APIs, and networks. My goal is to identify vulnerabilities and provide effective remediation solutions to improve clients' overall security. While I focus on web security, I am also interested in cloud (AWS and Azure) and container security. I strive to enhance my expertise in these areas to help clients stay ahead of potential security risks and protect their critical assets.
+As a penetration tester, I am dedicated to identifying security vulnerabilities in Web applications, APIs, network infrastructures, and Active Directory environments. My goal is not only to uncover weaknesses but to provide clear, practical recommendations that help organizations strengthen their defenses effectively.
+
+I stay current with the latest security trends and collaborate closely with development and operations teams to integrate security seamlessly into their workflows. By combining technical expertise with a collaborative approach, I help develop strong, secure systems that protect key assets and align with business priorities.
 
 ## Achievements
 
@@ -15,22 +17,32 @@ As a passionate penetration tester, I specialize in evaluating the security of w
 
 ## Certifications
 
-- Certified Professional Penetration Tester (eCPPTv2) - INE Security
-- Cloud Foundations - AWS Academy 
-- Cloud Security Foundations - AWS Academy 
-- Network Security Expert : NSE 1 - Fortinet
-- Network Security Expert : NSE 2 - Fortinet
-- Network Security Expert : NSE 3 - Fortinet
+- **Certified Professional Penetration Tester (eCPPTv2)** - INE Security
+- **ISO/IEC 27001:2022 Lead Auditor** - Mastermind
+- **Cloud Foundations** - AWS Academy 
+- **Cloud Security Foundations** - AWS Academy 
+- **Network Security Expert : NSE 1** - Fortinet
+- **Network Security Expert : NSE 2** - Fortinet
+- **Network Security Expert : NSE 3** - Fortinet
 
 
 ## Working Experience
 
-**Pentration Tester @ CryptoGen Nepal Pvt. Ltd**
-| `Feb, 2022 - Present`
+**Security Testing Engineer @ F1Soft International Pvt. Ltd**
+| `July, 2025 - Present`
+- Conducted comprehensive penetration testing across Web, Mobile, and API platforms in accordance with industry-standard guidelines.
+- Executed both Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) to identify vulnerabilities throughout the software development lifecycle.
+- Researched, implemented, and ensured compliance with key regulatory frameworks including ISO 9001, GDPR, CCPA, PCI-DSS, and other relevant standards.
+- Integrated automated security checks within CI/CD pipelines, fostering Security-as-Code practices to enhance DevSecOps workflows.
+- Delivered internal training sessions and security awareness programs to empower teams with best practices and threat mitigation strategies.
+- Continuously performed security research to stay updated on Emerging Threats, Vulnerabilities, and Technologies.
+
+**Penetration Tester @ CryptoGen Nepal Pvt. Ltd**
+| `Feb, 2022 - July, 2025`
 - Performed Vulnerability Assessment and Penetration Testing to identify vulnerabilities and weaknesses for various Organizations.
 - Performed research on new vulnerabilities, Security Frameworks and Methodologies and practiced the approaches and attacks on simulated environment for better understanding.
-- Researched and performed Web Application Penetration Testing Following OWASP Guidelines.
-- Researched on Red Team Assessments and Cloud Security (AWS and Azure)
+- Researched and performed Web/Mobile Application, API and Network Infrastructure Penetration Testing Following Standard Guidelines.
+- Researched on Red Team Assessments and AWS Cloud Security Testing.
 - Documented various vulnerabilities found during penetration testing and made report with proper proof-of-concepts
 
 ## Education
