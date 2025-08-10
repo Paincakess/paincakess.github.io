@@ -30,7 +30,7 @@ I stay current with the latest security trends and collaborate closely with deve
 
 **Security Testing Engineer @ F1Soft International Pvt. Ltd**
 | `July, 2025 - Present`
-- Conducted comprehensive penetration testing across Web, Mobile, and API platforms in accordance with industry-standard guidelines.
+- Conducted Vulnerability Assessment & Penetration Testing across Web, Mobile, and API Platforms in accordance with industry-standard guidelines.
 - Executed both Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) to identify vulnerabilities throughout the software development lifecycle.
 - Researched, implemented, and ensured compliance with key regulatory frameworks including ISO 9001, GDPR, CCPA, PCI-DSS, and other relevant standards.
 - Integrated automated security checks within CI/CD pipelines, fostering Security-as-Code practices to enhance DevSecOps workflows.
