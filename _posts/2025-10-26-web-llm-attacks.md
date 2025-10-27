@@ -6,12 +6,12 @@ categories:
   - Research
   - AI
 tags:
-  - LLM
-  - AI
+  - LLM-attacks
+  - AI-vulns
 ---
 ![Intro-Image](https://paincakes.sirv.com/Images/Research/banner.png)
 
-So, big LLMs like ChatGPT, Gemini, and Grok are kinda rewriting how we interact with websites and APIs these days. Everyone’s trying to plug them into their systems — customer support, translation, content generation, automation — you name it. But here’s the catch: along with all that hype, they’ve opened up a whole new set of security issues. “Web LLM attacks” have been popping up everywhere in recent research, and I couldn’t help but dig into them myself. Figured I’d throw my notes here in a chill blog post. Some of these attacks might be old news for the newer models, but they’re still super interesting — I mean, who doesn’t find social engineering an AI bot kinda fun?
+So, big LLMs like ChatGPT, Gemini, and Grok are kinda rewriting how we interact with websites and APIs these days. Everyone’s trying to integrate them into their systems — customer support, translation, content generation, automation — you name it. But here’s the catch: along with all that hype, they’ve opened up a whole new set of security issues. “Web LLM attacks” have been popping up everywhere in recent research, and I couldn’t help but dig into them myself. Figured I’d throw my notes here in a chill blog post. Some of these attacks might be old news for the newer models, but they’re still super interesting — I mean, who doesn’t find social engineering an AI bot kinda fun?
 
 # What are LLMs?
 
